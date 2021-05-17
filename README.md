@@ -9,7 +9,5 @@ membres:
 -SAICH Lotfi
 -HERZALLAH Aymen
 
-Ceci est le diagramme des classes correspondant:
 
-https://online.visual-paradigm.com/community/share/123-jz3rtk6cz
 
